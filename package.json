@@ -1,6 +1,6 @@
 {
-  "name": "loading-lock",
-  "repo": "cristiandouce/loading-lock",
+  "name": "democracyos-loading-lock",
+  "repo": "DemocracyOS/loading-lock",
   "description": "Loading lock component.",
   "version": "0.1.0",
   "keywords": ["loading", "lock", "spin", "spinner", "UI"],
